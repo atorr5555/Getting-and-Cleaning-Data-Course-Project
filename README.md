@@ -1,5 +1,8 @@
 # Getting and Cleaning Data Course Project
-
+---
+**Note**
+This repo with all the commit history is in my repo of the wole specialization in this link:https://github.com/atorr5555/DataScienceR/tree/master/03_Getting_And_Cleaning_Data/Project
+---
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 
 **Review criteria**
